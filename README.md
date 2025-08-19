@@ -20,25 +20,15 @@ The app provides personalized food recommendations, monitors daily intake, and h
 ---
 
 ## 🎯 Project Objectives
-1. Support patients in managing their diet effectively.  
-2. Provide personalized meal recommendations based on medical conditions.  
-3. Track and monitor nutritional intake for better health awareness.  
-4. Reduce the risks associated with unhealthy food choices.  
-5. Offer a user-friendly interface for daily health management.  
 
 ---
 
 ## 📌 Project Scope
 - **Core Features**:  
-  - Personalized meal planner for diabetes & hypertension patients.  
-  - Food recommendations with nutrition analysis.  
-  - Alerts for unhealthy food choices.  
-  - Weekly health progress reports.  
+   
 
 - **Users**:  
-  - Primary: Patients with diabetes and/or high blood pressure.  
-  - Secondary: Nutritionists, family members, and healthcare providers.  
-
+ 
 ---
 
 ## 📅 Project Plan (21 Weeks)
