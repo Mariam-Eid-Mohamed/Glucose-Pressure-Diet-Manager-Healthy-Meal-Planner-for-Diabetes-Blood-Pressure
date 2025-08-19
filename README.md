@@ -1,3 +1,4 @@
+![Lucid_Origin_A_logo_for_a_mobile_app_that_assists_patients_wit_2](https://github.com/user-attachments/assets/656c5bcb-4e79-4109-94ea-585e00eb2228)
 #Healthy-Meal-Planner-for-Diabetes-Blood-Pressure
 # 🍏 HealthyLife App  
 *A Smart Food & Health Organizer for Diabetes & Hypertension Patients*
