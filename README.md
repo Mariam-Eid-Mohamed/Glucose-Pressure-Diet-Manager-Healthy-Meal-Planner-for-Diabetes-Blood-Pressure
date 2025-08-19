@@ -7,10 +7,10 @@
 ## 👥 Team Members
 | Member|
 |--------|
-| 🧑‍💻 Member 1  |
-| 🧑‍💻 Member 2  |
-| 🧑‍💻 Member 3 |
-| 🧑‍💻 Member 4 |
+| 🧑‍💻 Menna Ghassan  |
+| 🧑‍💻 Mariam Eid  |
+| 🧑‍💻 Menna Elkholy |
+| 🧑‍💻 Nour Mohamed |
 
 
 ## 📖 Project Overview
