@@ -11,7 +11,7 @@
 | 🧑‍💻 Mariam Eid  |
 | 🧑‍💻 Menna Elkholy |
 | 🧑‍💻 Nour Mohamed |
-| 🧑‍💻 Hazem |
+| 🧑‍💻 Hazem Mohamed|
 
 ## 📖 Project Overview
 HealthyLife is a web & mobile app designed to help **diabetes and hypertension patients** organize their meals, track nutrition, and maintain a **balanced and healthy lifestyle**.  
