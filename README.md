@@ -27,7 +27,7 @@ The app provides personalized food recommendations, monitors daily intake, and h
 ## 📌 Project Scope
 - **Core Features**:
 
-- 1. User Onboarding & Profile
+ 1. User Onboarding & Profile
 
 Sign-up/login with personal info.
 
