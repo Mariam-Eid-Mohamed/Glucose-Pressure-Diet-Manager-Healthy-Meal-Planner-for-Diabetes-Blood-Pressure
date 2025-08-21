@@ -25,10 +25,50 @@ The app provides personalized food recommendations, monitors daily intake, and h
 ---
 
 ## 📌 Project Scope
-- **Core Features**:  
+- **Core Features**:
+
+- 1. User Onboarding & Profile
+
+Sign-up/login with personal info.
+
+Medical history input (diabetes type, blood pressure level, allergies).
+
+Goals setup (weight loss, sugar control, BP control, maintenance).
+
+2. Meal Planning
+
+AI-powered meal planner with diabetic & hypertension-friendly recipes.
+
+Customizable daily/weekly meal plans.
+
+Portion control guidance.
+
+Alternative food suggestions (if user dislikes or is allergic to an ingredient).
+
+3. Nutrition Tracking
+
+Nutritional breakdown (calories, carbs, sugar, sodium, fiber, protein).
+
+Food logging (manual input or barcode scan).
+
+Daily/weekly health reports.
+
+4. Notifications & Reminders
+
+Meal reminders.
+
+Water intake reminders.
+
+Alerts for exceeding daily sugar/salt limit.
    
 
-- **Users**:  
+- **Users**: 
+
+Diabetic Patients: Individuals with Type 1 or Type 2 diabetes who need controlled carb and sugar intake.
+
+Hypertension Patients: Individuals with high blood pressure who need to reduce sodium and unhealthy fats.
+
+People with Both Conditions: Users requiring a combined dietary approach.
  
 ---
 
