@@ -21,45 +21,21 @@ The app provides personalized food recommendations, monitors daily intake, and h
 ---
 
 ## 🎯 Project Objectives
-# Features
-
-## 1. Empower Users to Manage Their Dietary Health
-- Easy-to-use interface for entering health data:
-  - Blood sugar levels  
-  - Blood pressure  
-  - Weight  
-  - Age  
-  - Daily activity  
-
-## 2. Personalize Nutrition According to Individual Needs
-- Smart system that suggests healthy, balanced meals.  
-- Recommendations tailored to medical conditions and food preferences.  
-
-## 3. Track Nutrients and Calorie Intake
-- Accurate monitoring of:
-  - Calories  
-  - Fats  
-  - Proteins  
-  - Carbohydrates  
-  - Sodium  
-  - Sugar  
-
-## 4. Promote Health Awareness and Sustainable Habits
-- Daily tips and reminders to encourage healthier food choices.  
-
-## 5. Encourage Community Sharing and Peer Support
-- Users can share recipes and meal ideas.  
-- Foster a supportive community around healthy eating.  
-
-## 6. Facilitate Access to Healthier Food Alternatives
-- Suggests substitutes for meals or ingredients unsuitable for certain health conditions.  
-
-## 7. Support Continuity and Medical Follow-Up
-- Generate detailed reports for doctors or nutritionists.  
-- Helps monitor user progress over time.  
-
-
----
+Project Objectives
+	1.	Empower users to manage their dietary health
+	•	Provide an easy-to-use interface for entering health data (blood sugar levels, blood pressure, weight, age, daily activity).
+	2.	Personalize nutrition according to individual needs
+	•	Develop a smart system that suggests healthy, balanced meals based on medical conditions and food preferences.
+	3.	Track nutrients and calorie intake
+	•	Offer an accurate tool for monitoring calories, fats, proteins, carbohydrates, sodium, and sugar.
+	4.	Promote health awareness and sustainable habits
+	•	Deliver daily tips and reminders to support healthier food choices.
+	5.	Encourage community sharing and peer support
+	•	Enable users to share recipes and meal ideas to foster a supportive community.
+	6.	Facilitate access to healthier food alternatives
+	•	Suggest substitutes for meals or ingredients that may not suit the user’s health condition.
+	7.	Support continuity and medical follow-up
+	•	Generate reports that can be shared with doctors or nutritionists to monitor progress.
 
 ## 📌 Project Scope
 - **Core Features**:
