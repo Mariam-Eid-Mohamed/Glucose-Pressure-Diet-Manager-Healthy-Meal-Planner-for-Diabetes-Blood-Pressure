@@ -21,6 +21,20 @@ The app provides personalized food recommendations, monitors daily intake, and h
 ---
 
 ## 🎯 Project Objectives
+1.	Empower users to manage their dietary health
+	•	Provide an easy-to-use interface for entering health data (blood sugar levels, blood pressure, weight, age, daily activity).
+	2.	Personalize nutrition according to individual needs
+	•	Develop a smart system that suggests healthy, balanced meals based on medical conditions and food preferences.
+	3.	Track nutrients and calorie intake
+	•	Offer an accurate tool for monitoring calories, fats, proteins, carbohydrates, sodium, and sugar.
+	4.	Promote health awareness and sustainable habits
+	•	Deliver daily tips and reminders to support healthier food choices.
+	5.	Encourage community sharing and peer support
+	•	Enable users to share recipes and meal ideas to foster a supportive community.
+	6.	Facilitate access to healthier food alternatives
+	•	Suggest substitutes for meals or ingredients that may not suit the user’s health condition.
+	7.	Support continuity and medical follow-up
+	•	Generate reports that can be shared with doctors or nutritionists to monitor progress.
 
 ---
 
