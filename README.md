@@ -76,24 +76,98 @@ People with Both Conditions: Users requiring a combined dietary approach.
 
 We divided our work into **7 phases (3 weeks each)**:  
 
-### Weeks 1-3:  
+### Weeks 1-3: (Research & Planning Phase)
 
-### Weeks 4-6: 
+Goal: Gain a deep understanding of the user and the problem.
+
+Tasks:
+
+Define the idea and identify stakeholders.
+
+Collect requirements through interviews and surveys.
+
+Create Personas and User Flow.
 
 
-### Weeks 7-9:
+### Weeks 4-6: (Initial Design Phase)
+
+Goal: Establish the basic structure and visual identity.
+
+Tasks:
+
+Create a User Journey Map.
+
+Develop initial Wireframes.
+
+Build a Style Guide and a simple prototype.
+
+
+
+### Weeks 7-9: (Detailed Design Phase)
+
+Goal: Build a complete high-fidelity prototype.
+
+Tasks:
+
+Transform wireframes into high-fidelity designs.
+
+Develop a clickable prototype.
+
+Prepare for the testing phase.
+
+
  
 
-### Weeks 10-12:
+### Weeks 10-12: (Testing & Initial Improvements Phase)
+
+Goal: Test the design and gather feedback.
+
+Tasks:
+
+Conduct Usability Testing with users.
+
+Analyze results and identify areas for improvement.
+
+Apply initial design adjustments.
+
  
 
-### Weeks 13-15: 
+### Weeks 13-15: (Final Refinement Phase)
+
+Goal: Improve the design based on feedback.
+
+Tasks:
+
+Add final touches (Micro-interactions).
+
+Perform a comprehensive design review.
+
+Start documenting the project.
 
 
-### Weeks 16-18: 
+
+### Weeks 16-18: (Documentation Phase)
+
+Goal: Prepare a detailed project report.
+
+Tasks:
+
+Write report sections (analysis, design, testing).
+
+Prepare the initial presentation.
  
 
-### Weeks 19-21:  
+### Weeks 19-21: (Delivery & Presentation Phase)
+
+Goal: Deliver the project in its final form.
+
+Tasks:
+
+Final review of the report and presentation.
+
+Conduct a presentation rehearsal.
+
+Final delivery and presentation to the committee.
 
 ---
 
