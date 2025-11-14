@@ -5,7 +5,7 @@
 
 Figma Lik of Wireframes (it has a page for website and a page for app and prototype of both ):https://www.figma.com/design/pFuhOor2Z5GrFOcVp3jhuF/Nutresth?node-id=0-1&t=aRAJOkkJ2trS78ic-1
 
-
+prentation Link :https://www.figma.com/slides/jOvC9UZkfOAki4TuwZlv8P/Graduation-Project?node-id=1-660&t=P0dPFSS8GSdv5NKX-0
 
 ---
 
