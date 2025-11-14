@@ -3,6 +3,10 @@
 # 🍏 HealthyLife App  
 *A Smart Food & Health Organizer for Diabetes & Hypertension Patients*
 
+Figma Lik of Wireframes (it has a page for website and a page for app and prototype of both ):https://www.figma.com/design/pFuhOor2Z5GrFOcVp3jhuF/Nutresth?node-id=0-1&t=aRAJOkkJ2trS78ic-1
+
+
+
 ---
 
 ## 👥 Team Members
